@@ -9,3 +9,9 @@ This is a simple quiz game written in C++. The game asks the player five multipl
 4. Enter your name and age when prompted.
 5. Answer each question by entering the corresponding letter (a, b, c, or d).
 6. At the end of the quiz, your final score will be displayed.
+<br></br>
+
+# Features
+- Simple console-based interface.
+- Multiple-choice questions on C++ concepts.
+- Calculates and displays the player's final score.

@@ -15,3 +15,7 @@ This is a simple quiz game written in C++. The game asks the player five multipl
 - Simple console-based interface.
 - Multiple-choice questions on C++ concepts.
 - Calculates and displays the player's final score.
+<br></br>
+
+# Requirements
+- C++ compiler

@@ -19,3 +19,9 @@ This is a simple quiz game written in C++. The game asks the player five multipl
 
 # Requirements
 - C++ compiler
+<br></br>
+
+# Future Improvements
+- Add more questions and categories.
+- Implement a scoring system based on question difficulty.
+-  Add a timer for each question.
